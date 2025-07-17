@@ -1,16 +1,24 @@
-## Hi there 👋
+## project-idea.md
 
-<!--
-**jwc20/jwc20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### work in progress
+- massive online rock, paper, scissors game 
+  - [python, reflex, fastapi, websocket]
+- massive classic and ultimate tic-tac-toe game
+  - [python, reflex, fastapi, websocket]
+ 
+### backlog
 
-Here are some ideas to get you started:
+- weightlifting scoreboard
+- something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
+- online poker advisor using LLM (using some kind of screengrab and QtPy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### finished (but probably needs refactoring)
+
+- [barbell loading calculator](https://blc-reflex-gold-moon.reflex.run/)
+  - [python, reflex]
+  - (a wss error occurs if the user is outside of U.S.)
+- [stopwatch app with export to ics file function](https://inspiring-cupcake-f443e6.netlify.app/)
+  - [javascript, react]
+  - (want to make again but using reflex)
+- check out my repos for more
