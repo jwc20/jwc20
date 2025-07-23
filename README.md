@@ -1,10 +1,11 @@
 ## project-ideas.md
 
 ### work in progress
-- massive online rock, paper, scissors game 
-  - [python, reflex, fastapi, websocket]
+- massive online rock, paper, scissors game
+  - https://ultimate-rps-client.vercel.app/
+  - [react, fastapi, websocket]
 - massive classic and ultimate tic-tac-toe game
-  - [python, reflex, fastapi, websocket]
+  - [react, fastapi, websocket]
  
 ### backlog
 
@@ -22,4 +23,4 @@
 - [stopwatch app with export to ics file function](https://inspiring-cupcake-f443e6.netlify.app/)
   - [javascript, react]
   - (want to make again but using reflex)
-- check out my repos for more
+- (check out my repos for more)
