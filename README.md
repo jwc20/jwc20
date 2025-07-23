@@ -24,3 +24,6 @@
   - [javascript, react]
   - (want to make again but using reflex)
 - (check out my repos for more)
+
+
+[terry_not_lazy.webm](https://github.com/user-attachments/assets/da3f0838-b80c-4ccb-baa2-889d24dabc27)
