@@ -28,3 +28,5 @@
 
 
 [terry_not_lazy.webm](https://github.com/user-attachments/assets/da3f0838-b80c-4ccb-baa2-889d24dabc27)
+
+![](https://hit.yhype.me/github/profile?account_id=99288419)
