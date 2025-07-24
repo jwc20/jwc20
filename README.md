@@ -1,19 +1,25 @@
 ## project-ideas.md
 
 ### work in progress
+
 - massive online rock, paper, scissors game
   - https://ultimate-rps-client.vercel.app/
     - (I am using free version of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so you might have to wait around 50 seconds to login/register.)
   - [react, fastapi, websocket]
+ 
 - massive classic and ultimate tic-tac-toe game
   - [react, fastapi, websocket]
  
-### backlog
+### backlog (not in a specific order)
 
 - weightlifting scoreboard
 - something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
 - youtube downloader gui using QtPy and youtube-dl
+- learn about proxy rotation and bypassing captcha for scraping
+- learn Go, specifically for goroutines, charmbracelet/bubbletea, charmbracelet/wish
+- learn how to use datasette for publishing sqlite data
+
 
 
 ### finished (but probably needs refactoring)
