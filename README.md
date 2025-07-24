@@ -3,6 +3,7 @@
 ### work in progress
 - massive online rock, paper, scissors game
   - https://ultimate-rps-client.vercel.app/
+    - (I am using free version of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so you might have to wait around 50 seconds to login/register.)
   - [react, fastapi, websocket]
 - massive classic and ultimate tic-tac-toe game
   - [react, fastapi, websocket]
