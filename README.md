@@ -1,5 +1,3 @@
-## project-ideas.md
-
 ### work in progress
 
 - Benjamin and Charlotte, The game
@@ -8,10 +6,10 @@
   - demo:
     - https://bnc-client-psi.vercel.app
   - repo:
-    - https://github.com/jwc20/bnc-client
-    - https://github.com/jwc20/bncapi
-    - https://github.com/jwc20/bncpy
-    - (custom token auth) https://github.com/jwc20/knoxtokens
+    - FE: https://github.com/jwc20/bnc-client
+    - BE: https://github.com/jwc20/bncapi
+    - Game Logic: https://github.com/jwc20/bncpy
+    - Custom Token Auth: https://github.com/jwc20/knoxtokens
   - [react, django-ninja, websocket]
 
 - massive online rock, paper, scissors game
@@ -19,12 +17,9 @@
     - (I am using free version of vercel(frontend), render(backend), and redis cloud. same as above.)
   - [react, fastapi, websocket]
  
-- massive classic and ultimate tic-tac-toe game
-  - [react, fastapi, websocket]
- 
 ### backlog (not in a specific order)
 
-- weightlifting scoreboard
+- weightlifting scoreboard (probably will work on this next)
 - something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
 - youtube downloader gui using QtPy and youtube-dl
@@ -38,10 +33,15 @@
 
 - [barbell loading calculator](https://blc-reflex-gold-moon.reflex.run/)
   - [python, reflex]
-  - (wss error occurs if the user is outside of U.S. This is a problem from Reflex)
+  - websocket error occurs if the users is outside of U.S. (This is a problem from Reflex)
+  - older version with p5.js (https://github.com/jwc20/barbellLoadingCalculator)
+    
 - [stopwatch app with export to ics file function](https://inspiring-cupcake-f443e6.netlify.app/)
   - [javascript, react]
   - (want to make again but using reflex)
+
+- [twitch chat "toxicity" detector](https://omf-scene24.vercel.app/wsTest)
+  - https://github.com/jwc20/omfScene24/tree/main 
 - (check out my repos for more)
 
 
