@@ -1,22 +1,24 @@
 ### work in progress
 
-- Benjamin and Charlotte, The game
-  - a code guessing game that will blow your socks off and get me hired
-  - **(I am using free version of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so you might have to wait around 50 seconds to login/register.)**
-  - demo:
-    - https://bnc-client-psi.vercel.app
-  - repo:
-    - FE: https://github.com/jwc20/bnc-client
-    - BE: https://github.com/jwc20/bncapi
-    - Game Logic: https://github.com/jwc20/bncpy
-    - Custom Token Auth: https://github.com/jwc20/knoxtokens
-  - [react, django-ninja, websocket]
+1. Benjamin and Charlotte, The game
+    - a code guessing game that will blow your socks off and get me hired
+    - **(this project is using free versions of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so might have to wait around 50 seconds to login/register.)**
+    - demo:
+      - https://bnc-client-psi.vercel.app
+    - repo:
+      - FE: https://github.com/jwc20/bnc-client
+      - BE: https://github.com/jwc20/bncapi
+      - Game Logic: https://github.com/jwc20/bncpy
+      - Custom Token Auth: https://github.com/jwc20/knoxtokens
+    - [react, django-ninja, websocket]
 
-- massive online rock, paper, scissors game
-  - https://ultimate-rps-client.vercel.app/
-    - (I am using free version of vercel(frontend), render(backend), and redis cloud. same as above.)
-  - [react, fastapi, websocket]
- 
+2. **react(typescript, zustand, @tanstack/react-query), django-ninja(knox-token, activity-stream, django-channel) boilerplate template**
+
+3. massive online rock, paper, scissors game
+    - https://ultimate-rps-client.vercel.app/
+      - (I am using free version of vercel(frontend), render(backend), and redis cloud. same as above.)
+    - [react, fastapi, websocket]
+   
 ### backlog (not in a specific order)
 
 - weightlifting scoreboard (probably will work on this next)
