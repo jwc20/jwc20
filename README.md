@@ -21,6 +21,7 @@
    
 ### backlog (not in a specific order)
 
+- learn zustand + react-query + openapi-ts
 - weightlifting scoreboard (probably will work on this next)
 - something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
