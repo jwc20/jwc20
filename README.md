@@ -1,7 +1,7 @@
 ### work in progress
 
 1. Benjamin and Charlotte, The game
-    - a code guessing game that will blow your socks off and get me hired
+    - a code guessing game that will blow your socks off
     - **(this project is using free versions of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so might have to wait around 50 seconds to login/register.)**
     - demo:
       - https://bnc-client-psi.vercel.app
@@ -11,14 +11,24 @@
       - Game Logic: https://github.com/jwc20/bncpy
       - Custom Token Auth: https://github.com/jwc20/knoxtokens
     - [react, django-ninja, websocket]
+  
+---
 
-2. **react(typescript, zustand, @tanstack/react-query), django-ninja(knox-token, activity-stream, django-channel) boilerplate template**
+2. **react+django-ninja boilerplate template**
+    - react + swc, typescript 
+        - (typescript, zustand, @tanstack/react-query)
+    - django-ninja
+        - (knox-token, activity-stream, django-channel)
+
+---
 
 3. massive online rock, paper, scissors game
     - https://ultimate-rps-client.vercel.app/
       - (I am using free version of vercel(frontend), render(backend), and redis cloud. same as above.)
     - [react, fastapi, websocket]
-   
+
+---
+
 ### backlog (not in a specific order)
 
 - learn zustand + react-query + openapi-ts
@@ -30,7 +40,7 @@
 - learn Go, specifically for goroutines, charmbracelet/bubbletea, charmbracelet/wish
 - learn how to use datasette for publishing sqlite data
 
-
+---
 
 ### finished (but probably needs refactoring)
 
