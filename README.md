@@ -15,8 +15,8 @@
 ---
 
 2. **react+django-ninja boilerplate template**
-    - react + swc, typescript 
-        - (typescript, zustand, @tanstack/react-query)
+    - react(typescript) + swc
+        - (zustand, @tanstack/react-query, swagger-typescript-api)
     - django-ninja
         - (knox-token, activity-stream, django-channel)
 
@@ -31,7 +31,7 @@
 
 ### backlog (not in a specific order)
 
-- learn zustand + react-query + openapi-ts
+- learn zustand + react-query + swagger-typescript-api
 - weightlifting scoreboard (probably will work on this next)
 - something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
