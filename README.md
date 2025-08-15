@@ -31,8 +31,9 @@
 
 ### backlog (not in a specific order)
 
+- Github commit Gantt chart generator
 - learn zustand + react-query + swagger-typescript-api
-- weightlifting scoreboard (probably will work on this next)
+- weightlifting scoreboard
 - something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
 - youtube downloader gui using QtPy and youtube-dl
