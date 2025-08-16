@@ -2,15 +2,16 @@
 
 1. Benjamin and Charlotte, The game
     - a code guessing game that will blow your socks off
-    - **(this project is using free versions of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so might have to wait around 50 seconds to login/register.)**
+    - **(this project is using free versions of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so you might have to wait around 50 seconds to login/register.)**
     - demo:
       - https://bnc-client-psi.vercel.app
     - repo:
-      - FE: https://github.com/jwc20/bnc-client
-      - BE: https://github.com/jwc20/bncapi
       - Game Logic: https://github.com/jwc20/bncpy
+      - Mono-Repo submission: https://github.com/jwc20/bnc-game
+      - BE: https://github.com/jwc20/bncapi
       - Custom Token Auth: https://github.com/jwc20/knoxtokens
-    - [react, django-ninja, websocket]
+      - FE: https://github.com/jwc20/bnc-client
+    - [react(typescript), django-ninja, websocket]
   
 ---
 
