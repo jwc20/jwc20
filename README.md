@@ -32,6 +32,7 @@
 
 ### backlog (not in a specific order)
 
+- learn qdrant
 - Github commit Gantt chart generator
 - learn zustand + react-query + swagger-typescript-api
 - weightlifting scoreboard
