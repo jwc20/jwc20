@@ -1,6 +1,7 @@
 ### work in progress
 
 - edx courses
+- infinite ultimate tic-tac-toe library [(ttt-py)](https://github.com/jwc20/ttt-py)
 
 ### backlog (not in a specific order)
 
