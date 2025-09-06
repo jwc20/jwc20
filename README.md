@@ -1,7 +1,12 @@
 ### work in progress
 
 - edx courses
-- infinite ultimate tic-tac-toe library [(ttt-py)](https://github.com/jwc20/ttt-py)
+    - some java courses
+
+- python infinite game libraries, building these to practice ood i learnt:
+    - [pyttt](https://github.com/jwc20/pyttt)
+    - [rps](https://github.com/jwc20/rock-paper-scissors-py)
+    - [bnc](https://github.com/jwc20/bncpy)
 
 ### backlog (not in a specific order)
 
@@ -14,7 +19,6 @@
 - learn qdrant
 - Github commit Gantt chart generator
 - weightlifting scoreboard
-- something similar to [kyechan99/capsule-render](https://github.com/kyechan99/capsule-render)
 - online poker advisor using LLM (using some kind of screengrab and QtPy)
 - youtube downloader gui using QtPy and youtube-dl
 - learn about proxy rotation and bypassing captcha for scraping
@@ -25,42 +29,16 @@
 
 ### finished (but probably needs refactoring)
 
-
 - Benjamin and Charlotte, The game
-    - a code guessing game that will blow your socks off
-    - **(this project is using free versions of vercel(frontend), render(backend), and redis cloud. The Render server shuts down after not using it, so you might have to wait around 50 seconds to login/register.)**
-    - demo:
-      - https://bnc-client-psi.vercel.app
-    - repo:
-      - Game Logic: https://github.com/jwc20/bncpy
-      - Mono-Repo submission: https://github.com/jwc20/bnc-game
-      - BE: https://github.com/jwc20/bncapi
-      - Custom Token Auth: https://github.com/jwc20/knoxtokens
-      - FE: https://github.com/jwc20/bnc-client
-    - [react(typescript), django-ninja, websocket]
-  
+    - demo: https://bnc-client-psi.vercel.app
+
 - massive online rock, paper, scissors game
     - https://ultimate-rps-client.vercel.app/
       - (I am using free version of vercel(frontend), render(backend), and redis cloud. same as above.)
     - [react, fastapi, websocket]
 
 
-
-- [barbell loading calculator](https://blc-reflex-gold-moon.reflex.run/)
-  - [python, reflex]
-  - websocket error occurs if the users is outside of U.S. (This is a problem from Reflex)
-  - older version with p5.js (https://github.com/jwc20/barbellLoadingCalculator)
-    
-- [stopwatch app with export to ics file function](https://inspiring-cupcake-f443e6.netlify.app/)
-  - [javascript, react]
-  - (want to make again but using reflex)
-
-- [twitch chat "toxicity" detector](https://omf-scene24.vercel.app/wsTest)
-  - https://github.com/jwc20/omfScene24/tree/main 
-- (check out my repos for more)
-
-
-
 [terry_not_lazy.webm](https://github.com/user-attachments/assets/da3f0838-b80c-4ccb-baa2-889d24dabc27)
 
-![](https://hit.yhype.me/github/profile?account_id=99288419)
+<img width="185" height="298" alt="image" src="https://github.com/user-attachments/assets/543a72e0-fe1c-47de-9be9-fa6bbafceb09" />
+
