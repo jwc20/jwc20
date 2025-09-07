@@ -42,3 +42,4 @@
 
 <img width="185" height="298" alt="image" src="https://github.com/user-attachments/assets/543a72e0-fe1c-47de-9be9-fa6bbafceb09" />
 
+check out my repos to see a graveyard of unfinished projects
