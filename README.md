@@ -1,14 +1,15 @@
-### work in progress
+# readme
+
+## work in progress
 
 - edx courses
-    - some java courses
 
-- python infinite game libraries, building these to practice ood i learnt:
-    - [pyttt](https://github.com/jwc20/pyttt)
-    - [rps](https://github.com/jwc20/rock-paper-scissors-py)
-    - [bnc](https://github.com/jwc20/bncpy)
+---
+## other
 
 ### backlog (not in a specific order)
+
+- [pyttt](https://github.com/jwc20/pyttt)
 
 - **react+django-ninja boilerplate template**
     - react(typescript) + swc
@@ -28,6 +29,10 @@
 ---
 
 ### finished (but probably needs refactoring)
+  
+- [rps](https://github.com/jwc20/rock-paper-scissors-py)
+  
+- [bnc](https://github.com/jwc20/bncpy)
 
 - Benjamin and Charlotte, The game
     - demo: https://bnc-client-psi.vercel.app
@@ -41,5 +46,3 @@
 [terry_not_lazy.webm](https://github.com/user-attachments/assets/da3f0838-b80c-4ccb-baa2-889d24dabc27)
 
 <img width="185" height="298" alt="image" src="https://github.com/user-attachments/assets/543a72e0-fe1c-47de-9be9-fa6bbafceb09" />
-
-check out my repos to see a graveyard of unfinished projects
