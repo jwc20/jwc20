@@ -1,6 +1,6 @@
 ## currently
 
-- Learning Go, focussing on CharmBracelet's BubbleTea and Wish.
+- Learning Go, focusing on CharmBracelet's BubbleTea and Wish.
 
 ## todo
 
