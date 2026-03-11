@@ -1,6 +1,7 @@
 ## currently
 
 - Learning Go, focusing on CharmBracelet's BubbleTea and Wish.
+- Embracing [compounding engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents)
 
 ## todo
 
