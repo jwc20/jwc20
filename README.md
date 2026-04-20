@@ -1,12 +1,6 @@
 ## currently
 
-- Learning Go, focusing on CharmBracelet's BubbleTea and Wish.
-- Embracing [compounding engineering](https://every.to/chain-of-thought/compound-engineering-how-every-codes-with-agents)
-
-## todo
-
-- Learn about [google/langextract](https://github.com/google/langextract) (for maybe use in text classification?).
-- Use [datasette](https://datasette.io/) for visualizing sport data.
+- Learning Go!
 
 ---
 
