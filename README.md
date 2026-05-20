@@ -8,13 +8,13 @@
 | [WebRTC Tic-Tac-Toe](https://github.com/jwc20/tic-tac-toe-react)                       	| [LinkedIn](https://github.com/jwc20/linkedin-scraper-jobs)            	| [Sniffy Code Auto-Tester Terminal](https://github.com/jwc20/sniffy)                    	| [Barbell Calculator](https://github.com/jwc20/blc-py)                           	|
 | [Magic the Gathering Cheat Client](https://github.com/jwc20/mtga_meta) 	| [Wellfound](https://github.com/jwc20/wellfound-scraper)               	| [Barbell Calculator (Reflex)](https://github.com/jwc20/blc-reflex)              	| [Tic-Tac-Toe Infinite](https://github.com/jwc20/pyttt)                          	|
 | [Terminal Tic-Tac-Toe](https://github.com/jwc20/ssh-ttt)                               	| [Fatality and Catastrophe Reports]( https://github.com/jwc20/fcisapi) 	| [Barbell Calculator (p5.js)](https://github.com/jwc20/barbellLoadingCalculator) 	|                                                                                 	|
-| [Ultimate Rock-Paper-Scissor](https://github.com/jwc20/ultimate-rps-client)            	| [iwf_ruby](https://github.com/jwc20/iwf_ruby)                         	|                                                                                 	|                                                                                 	|
+| [Ultimate Rock-Paper-Scissors](https://github.com/jwc20/ultimate-rps-client)            	| [iwf_ruby](https://github.com/jwc20/iwf_ruby)                         	|                                                                                 	|                                                                                 	|
 
 ## Live Demos
 
-- [Bulls & Cow (slow startup)](https://bnc-client-psi.vercel.app/)
+- [Bulls & cows (slow startup)](https://bnc-client-psi.vercel.app/)
   
-- [Ultimate Rock-Paper-Scissor (slow startup)](https://ultimate-rps-client.vercel.app/login)
+- [Ultimate Rock-Paper-Scissors (slow startup)](https://ultimate-rps-client.vercel.app/login)
 
 - [WebRTC Tic-Tac-Toe](https://jwc20-tttr.netlify.app/)
   
