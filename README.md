@@ -14,9 +14,9 @@
 
 ## Live Demos
 
-- [Bulls & Cow](https://bnc-client-psi.vercel.app/)
+- [Bulls & Cow (slow startup)](https://bnc-client-psi.vercel.app/)
   
-- [Ultimate Rock-Paper-Scissor](https://ultimate-rps-client.vercel.app/login)
+- [Ultimate Rock-Paper-Scissor (slow startup)](https://ultimate-rps-client.vercel.app/login)
   
 - SVT: `ssh siliconvalleytrail.xyz` (type in terminal)
 
@@ -27,3 +27,6 @@
 - [Onnuri Missionary Webpage](https://jwc20.github.io/OnnuriMission/)
 
 - [Twitch Chat Toxicity Detector](https://omf-scene24.vercel.app/wsTest)
+
+_The Render backend servers are slow to startup when logging in (about 90 second wait time)._
+  
