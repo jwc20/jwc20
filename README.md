@@ -15,6 +15,8 @@
 - [Bulls & Cow (slow startup)](https://bnc-client-psi.vercel.app/)
   
 - [Ultimate Rock-Paper-Scissor (slow startup)](https://ultimate-rps-client.vercel.app/login)
+
+- [WebRTC Tic-Tac-Toe](https://jwc20-tttr.netlify.app/)
   
 - SVT: `ssh siliconvalleytrail.xyz` (type in terminal)
 
