@@ -1,8 +1,7 @@
 
-## Current Project
+## Current
 
-https://github.com/user-attachments/assets/4e8b23f2-33fa-48d9-89dd-992a7e53a0cb
-
+- learning c++
 
 
 ## Past Projects
