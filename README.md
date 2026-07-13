@@ -1,9 +1,4 @@
 
-## Current
-
-- learning c++
-
-
 ## Past Projects
 
 |                                     Games                                    	|                                Scrapers                               	|                                      Tools                                      	|                                 Python Libraries                                	|
